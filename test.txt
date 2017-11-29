@@ -1,7 +1,5 @@
 List of Name
-<<<<<<< Updated upstream
 Jerome J. Fabricante
-Paul Betlog
-=======
-Jerome J. Fabricante
->>>>>>> Stashed changes
+Paul Alcabasa
+
+Ma'am EM
